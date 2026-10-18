@@ -11,6 +11,4 @@ at ~1 ms p99.
 - 💼 Open to platform / infrastructure / SRE roles, remote or relocation
 
 📄 [CV](https://dimkagorhover.github.io/cv/) ·
-✍️ [Blog](https://dimkagorhover.github.io/posts/) ·
-💼 [LinkedIn](https://www.linkedin.com/in/dmitriy-gorkhover/) ·
-📫 [hdpmail@pm.me](mailto:hdpmail@pm.me)
+💼 [LinkedIn](https://www.linkedin.com/in/dmitriy-gorkhover/)
